@@ -1,0 +1,39 @@
+
+
+Origin games are experiencing the following issue:
+They install the Origin client and run fine while online
+When launching with no internet connection, they bring up the Origin "sign in" page every time the game launches
+You can't sign in to the sign-in page, and it says "You must be online when logging in for the first time" if you try
+Since you can't sign in, you can't launch the game
+
+Here's the workaround:
+
+Go online
+
+Go to desktop mode (via the Power menu)
+
+Open Steam in desktop mode
+
+Launch the game in desktop mode
+
+In the game's settings, set the game to play in windowed mode, rather than fullscreen. This should enable you to browse in desktop mode while the game is running.
+
+With the game running in windowed mode, open the Origin client by clicking the icon in the taskbar
+
+In the top left corner of the Origin window, open the Origin dropdown and select Sign Out
+
+This will open a dialog box that say "Unable to exit because (game) is open". LEAVE THIS DIALOG BOX OPEN.
+
+Exit the game. Because the dialog box is open, Origin will stay open instead of exiting automatically.
+Close the dialog box
+
+Select Origin -> Sign Out again. This time, it will actually allow you to sign out.
+
+Sign in again, and be certain to check "Keep me signed in"
+
+Feel free to mess around with any other Origin settings you want, then exit Origin, close out of everything, and go back to gaming mode
+Be sure to go back to fullscreen mode in the game's settings next time you launch it
+
+Now, when you try launching the game in offline mode, it will still bring up the sign-in page, but it will have your username filled in already and YOU WILL BE ABLE TO SIGN IN AND PLAY THE GAME!!
+
+Unfortunately, you will have to repeat this process for every single Origin game you want to play in offline mode, but at least it's possible.
